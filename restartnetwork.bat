@@ -11,5 +11,5 @@ net start dhcp
 net start dnscache
 net start nlasvc
 
-echo All services restarted successfully.
+echo All services restarted successfully...
 pause
